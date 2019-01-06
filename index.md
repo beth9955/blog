@@ -1,1 +1,4 @@
-#hahaha
+---
+layout: home
+author_profile: true
+---
