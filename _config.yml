@@ -155,7 +155,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -282,7 +281,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
