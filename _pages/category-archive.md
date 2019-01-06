@@ -1,6 +1,6 @@
 ---
 title: "Posts by Collection"
-permalink: /category-archive/
+permalink: /about/
 author_profile: true
 ---
 
